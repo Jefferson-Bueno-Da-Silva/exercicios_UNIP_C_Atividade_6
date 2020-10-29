@@ -29,7 +29,7 @@ int main()
 {
     //VARIAVEIS
     int numero;
-    
+    system("cls");
     //ENTRADA
     printf("Insira um valor que deseja calcular seu fatorial: ");
     scanf("%d", &numero);
